@@ -1,0 +1,25 @@
+html{background-image:url("background.jpg");
+	 background-repeat: no-repeat;
+	 background-position:center;
+	 background-size:cover;
+	 background-attachment: fixed;
+      }
+
+
+
+h1{
+
+
+   background:linear-gradient(#bd14cc,#8f14cc,#1492cc);	
+   color:#e6e4da ;
+   border: 2px solid;
+   width:300px;
+   padding: 5px;
+   margin:0px 0px 0px 840px }
+
+
+img{
+	margin:50px -400px 0px 400px;
+}
+
+
